@@ -1,5 +1,5 @@
 {
-  "name": "electron-app",
+  "name": "electron-app-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "dist/electron.js",
@@ -17,6 +17,8 @@
     "electron-prebuilt": "^0.36.4",
     "gulp": "^3.9.0",
     "gulp-sass": "^2.1.1",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
     "vinyl-source-stream": "^1.1.0"
   }
 }
